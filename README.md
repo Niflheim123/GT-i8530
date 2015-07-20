@@ -11,3 +11,5 @@ repo sync
 
 (it is gonna take a few hours) then get the sources from this repository.
 Then apply patch.sh.
+
+Note: this is work in progress, for now the device stucks at boot and also the device is not recognized.
