@@ -1,4 +1,4 @@
-android_device_samsung_janice
+android_device_samsung_gavini
 =============================
 
 CyanogenMod 11 Device Tree for Samsung Galaxy Beam (GT-I8530)
