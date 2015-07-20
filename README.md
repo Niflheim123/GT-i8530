@@ -4,9 +4,7 @@ Repo for GT-i8530 galaxy beam cyanogenmod 11.0 based on Team Canjica sources for
 To build:
 repo init -u git://github.com/TeamCanjica/android.git -b cm-11.0 
 
-remove  <project path="external/svox" name="platform/external/svox" remote="aosp" revision="refs/tags/android-4.4.4_r2" /> from
-.repo/@manifest.xml
-then
+remove the line with platform/external/svox from .repo/@manifest.xml, then
 
 repo sync 
 
